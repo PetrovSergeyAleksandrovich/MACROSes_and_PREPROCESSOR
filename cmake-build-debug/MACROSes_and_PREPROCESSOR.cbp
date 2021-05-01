@@ -130,6 +130,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/User/CLionProjects/MACROSes and PREPROCESSOR/headers/days_of_the_week.h">
+			<Option target="main"/>
+		</Unit>
 		<Unit filename="C:/Users/User/CLionProjects/MACROSes and PREPROCESSOR/main.cpp">
 			<Option target="main"/>
 		</Unit>
