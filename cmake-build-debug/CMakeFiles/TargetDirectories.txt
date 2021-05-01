@@ -1,0 +1,4 @@
+C:/Users/User/CLionProjects/MACROSes and PREPROCESSOR/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/CLionProjects/MACROSes and PREPROCESSOR/cmake-build-debug/CMakeFiles/task_1.dir
+C:/Users/User/CLionProjects/MACROSes and PREPROCESSOR/cmake-build-debug/CMakeFiles/main.dir
+C:/Users/User/CLionProjects/MACROSes and PREPROCESSOR/cmake-build-debug/CMakeFiles/rebuild_cache.dir
