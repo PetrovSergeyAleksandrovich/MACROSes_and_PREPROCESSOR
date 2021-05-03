@@ -1,9 +1,9 @@
 #include <iostream>
 
 #define WINTER 0
-#define SPRING 0
+#define SPRING 1
 #define SUMMER 0
-#define AUTUMN 1
+#define AUTUMN 0
 
 int main ()
 {
@@ -13,15 +13,15 @@ int main ()
 #endif
 
 #if SPRING
-    std::cout << SPRING;
+    std::cout << "spring";
 #endif
 
 #if SUMMER
-    std::cout << SUMMER;
+    std::cout << "summer";
 #endif
 
 #if AUTUMN
-    std::cout << AUTUMN;
+    std::cout << "autumn";
 #endif
 
     return 0;
